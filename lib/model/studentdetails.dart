@@ -1,8 +1,8 @@
 
 class StudentInfo{
 
-  String studName;// variable is declare of type string.
-  String studEmail;// variable is declare of type string.
+  String studName;// Instance variable is declare of type string.
+  String studEmail;// Instance variable is declare of type string.
   List studList = new List();// dynamic list is declared.
 
 //Getters and Setters are define to set and access the data initialize in instance variable.
